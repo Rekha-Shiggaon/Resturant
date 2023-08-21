@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+#d1{
+height: 510px;
+width: 400px;
+border: 2px solid blueviolet;
+margin: 120px;
+margin-left: 530px;
+margin-top: 150px;
+background-color:whitesmoke
+}
+body{
+    background-image: linear-gradient(pink,rgb(110, 174, 209));
+    background-size: cover;
+}
+
+input{
+    height: 20px;
+    width: 150px;
+    
+    margin-left: 25px;
+}
+h2{
+    margin-left: 90px;
+}
+
+h3{
+    margin-left: 90px;
+}
+a{
+    color: black;
+    padding-left: 10px;
+}
+label{
+	margin-left: 40px;
+}
+button{
+	margin-left: 70px;
+	width: 80px;
+	}
+	

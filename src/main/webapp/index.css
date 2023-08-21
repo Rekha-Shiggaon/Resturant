@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+#div1{
+
+    height: 500px;
+    width: 450px;
+    background-image: radial-gradient(rgb(200, 181, 200),black);
+    margin: 80px;
+    margin-left: 500px;
+    justify-content: space-evenly;
+    
+    margin-bottom: 900px;
+    
+}
+button{
+    background-color:bisque;
+    width: 100px;
+    height:30px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+input{
+    height:40px;
+    width: 300px;
+    border-radius: 7px;
+    margin-left: 70px;
+    border-radius: 100px;
+}
+h2{
+    margin-left: 90px;
+    margin-top: 110px;
+    color: white;
+    padding-top: 50px;
+}
+h3{
+    margin-left: 90px;
+    margin-top: 20px; 
+    color: white;
+}
